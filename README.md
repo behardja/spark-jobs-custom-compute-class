@@ -15,9 +15,6 @@ Refer and navigate to the sections:
     
     
 ## References
-
-Resources:
-## Additional References
 * [About Custom Compute Classes](https://cloud.google.com/kubernetes-engine/docs/concepts/about-custom-compute-classes)
 * [Running Spark on Kubernetes](https://spark.apache.org/docs/latest/running-on-kubernetes.html)
 * [Getting Started with RAPIDS and Kubernetes](https://docs.nvidia.com/ai-enterprise/deployment-guide-spark-rapids-accelerator/0.1.0/kubernetes.html)
